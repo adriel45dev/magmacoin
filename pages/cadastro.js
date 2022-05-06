@@ -150,9 +150,9 @@ function Cadastro() {
                 type="email"
                 className="form-control"
                 id="floatingInput"
-                placeholder="JHSYTDLOIUYDS"
+                placeholder="Chave Privada"
               />
-              <label htmlFor="floatingInput">Número da carteira</label>
+              <label htmlFor="floatingInput">Chave Privada</label>
             </div>
 
             <div className="form-floating">
