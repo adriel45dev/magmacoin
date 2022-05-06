@@ -132,9 +132,9 @@ function HomePage() {
                 type="email"
                 className="form-control"
                 id="hash"
-                placeholder="JHSYTDLOIUYDS"
+                placeholder="Chave Privada"
               />
-              <label htmlFor="hash">Número da carteira</label>
+              <label htmlFor="hash">Chave Privada</label>
             </div>
             <div className="form-floating">
               <input
