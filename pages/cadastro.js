@@ -17,14 +17,14 @@ function cadastrar() {
       .from("usuarios")
       .select("*")
       .then((dados) => {
-        let user = dados.data.filter((e) => e.hash == hash.value);
+        let user = dados.data.filter((e) => e.private == hash.value);
 
         if (user.length != 0) {
           if (pass.value == passConf.value) {
             supabaseCliente
               .from("usuarios")
               .update({ password: pass.value })
-              .match({ hash: hash.value })
+              .match({ private: hash.value })
               .then(() => {
                 alert("Cadastrado com sucesso");
                 window.location.href = "/";
