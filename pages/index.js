@@ -16,7 +16,7 @@ function login() {
       .from("usuarios")
       .select("*")
       .then((dados) => {
-        let user = dados.data.filter((e) => e.hash == inputHash.value);
+        let user = dados.data.filter((e) => e.private == inputHash.value);
 
         if (user.length != 0) {
           if (user[0].password == inputPassword.value) {
