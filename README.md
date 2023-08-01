@@ -53,5 +53,3 @@ Senha: toor
   <img src="magmacoin_sc_01.png" alt="Magmacoin 01" style="width: 45%">
   <img src="magmacoin_sc_02.png" alt="Magmacoin 02" style="width: 45%">
 </div>
-
-Sinta-se à vontade para personalizar essa descrição para se adequar ao seu projeto específico e adicionar mais detalhes conforme necessário. O modelo acima fornece um ponto de partida para criar a descrição do projeto Next.js para o GitHub.
