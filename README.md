@@ -1,7 +1,10 @@
 ## Magmacoin
-# Simulação de Moeda Digital usando Next.js
-
 ![Logo do Projeto](public/img/magma.png "Magmacoin")
+
+# Simulação de Moeda Digital usando Next.js
+![Logo do Projeto](magmacoin_sc_01 "Magmacoin 01")
+![Logo do Projeto](magmacoin_sc_02 "Magmacoin 02")
+
 
 ## Descrição do Projeto
 
