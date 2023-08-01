@@ -42,6 +42,12 @@ Este projeto é apenas uma simulação com fins educacionais e não representa u
 ## Site
 [Magmacoin](https://magmacoin.vercel.app/)
 
+````
+```
+Chave privada: f25a2fc726
+Senha: root
+```
+````
 ---
 
 Sinta-se à vontade para personalizar essa descrição para se adequar ao seu projeto específico e adicionar mais detalhes conforme necessário. O modelo acima fornece um ponto de partida para criar a descrição do projeto Next.js para o GitHub.
