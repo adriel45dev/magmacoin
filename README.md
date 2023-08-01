@@ -1,5 +1,5 @@
 
 ## Magmacoin
-![Alt text](public/img/magma.png)
+![Alt text](public/img/magma.png "Magmacoin")
 
 About:
