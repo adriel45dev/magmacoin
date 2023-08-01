@@ -45,7 +45,7 @@ Este projeto é apenas uma simulação com fins educacionais e não representa u
 ````
 ```
 Chave privada: f25a2fc726
-Senha: root
+Senha: toor
 ```
 ````
 ---
