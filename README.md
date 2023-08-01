@@ -40,7 +40,7 @@ Esse projeto é de código aberto e estamos abertos a contribuições da comunid
 Este projeto é apenas uma simulação com fins educacionais e não representa uma moeda digital real. Todo o conteúdo aqui apresentado é fictício e não possui valor monetário real.
 
 ## Site
-[Magmacoin wALLET](https://magmacoin.vercel.app/)
+[Magmacoin](https://magmacoin.vercel.app/)
 
 ---
 
